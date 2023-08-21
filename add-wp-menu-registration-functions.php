@@ -43,8 +43,6 @@ function add_custom_form_option() {
 function custom_form_callback() {
     echo '<h1>Custom Form</h1>';
     echo '<p>Add your custom content the the  submenu page<p>';
-
-
 }
 
 function all_submenu_callback() {
